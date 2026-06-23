@@ -33,13 +33,6 @@
 
 - **[sdd_kmp_voice_visualizer_ring](https://github.com/jvagliat/sdd_kmp_voice_visualizer_ring)** — Audio-reactive visualizer in Kotlin Multiplatform, built with Spec-Driven Development + Claude Code. [Live demo](https://kmp-voice-visualizer-ring.web.app/).
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jvagliat&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvagliat&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
 ---
 
 <p align="center"><i>Java &amp; mobile since the late 2000s · Flutter since 2018 · Applied AI today</i></p>
