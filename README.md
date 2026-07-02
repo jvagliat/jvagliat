@@ -1,38 +1,36 @@
-<h1 align="center">Hi, I'm Pablo Vagliati 👋</h1>
+# Hi, I'm Pablo Vagliati 👋
 
-<p align="center">
-  <b>AI &amp; Mobile Engineer</b> — mobile track record since 2009, now building applied AI.
-</p>
+**Senior AI Engineer & Architect — LLMs, RAG & Agents, backed by 20+ years of software at scale.**
 
-<p align="center">
-  <a href="https://pablovagliati.com"><img src="https://img.shields.io/badge/Website-pablovagliati.com-2ea44f?style=flat-square&logo=google-chrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pablovagliati"><img src="https://img.shields.io/badge/LinkedIn-pablovagliati-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.behance.net/pablovagliati"><img src="https://img.shields.io/badge/Behance-pablovagliati-1769FF?style=flat-square&logo=behance&logoColor=white"></a>
-  <a href="mailto:jvagliat@gmail.com"><img src="https://img.shields.io/badge/Email-jvagliat@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+Independent consultant: the senior you talk to is the one who designs and writes the code.
 
----
+🌐 [pablovagliati.com](https://pablovagliati.com) · 💼 [linkedin.com/in/pablovagliati](https://linkedin.com/in/pablovagliati) · 📫 jvagliat@gmail.com
 
-### 🚀 What I'm doing
+## Track record
 
-- 🤖 Building **applied AI** — agentic workflows, LLM-driven tooling, and AI-assisted engineering.
-- 📱 **Mobile since 2009** — and on **Flutter since its early alphas (2018)**.
-- ☕ **15+ years with Java** across desktop, web, and mobile.
-- 🧪 Exploring **Spec-Driven Development (SDD)** to ship reliable software with AI on stacks LLMs don't dominate.
-- 🌎 Based in Argentina, working globally.
+- **Movistar Argentina** — led the first Android version of the official app, adopted by millions of users.
+- **Doorbot → Ring** — built the first Android client of the smart doorbell that became Ring (later acquired by Amazon), today used by 10M+ people.
+- **500+ municipalities in Spain** — one base architecture, one app per town.
+- **20+ years shipping software** — from VR simulation (Argentine Navy, 2002) and Java EE, to mobile at scale, to applied AI.
 
-### 🛠️ Stack
+## AI work (2024 – present)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+Production systems for real clients. The code is private; the cases are real:
 
-### 📌 Featured
+- **Help desk agent — Workana.** Consolidated the support of "The Accelerator" — Workana's paid community where 300 active freelancers learn to land their first projects (40-channel Discord) — into a single intelligent agent: unified a legacy chatbot with a RAG bot over internal docs, with grounded answers (cited sources, relevance scores, visible tool calls). The support team now handles edge cases only.
+- **Legal research assistant — Mexico.** Agentic assistant over Mexico's Supreme Court (SCJN) jurisprudence: a century of case law (since 1917) whose official search offers neither lexical nor semantic retrieval. Hybrid RAG (lexical + semantic) with incremental on-demand indexing, built with a practicing lawyer for a bar association. Case-law research went from days to minutes.
+- **Document AI.** OCR + LLM pipeline for automated extraction and classification of legal documents.
+- **Voice AI.** Real-time voice agents (LiveKit, ElevenLabs).
 
-- **[sdd_kmp_voice_visualizer_ring](https://github.com/jvagliat/sdd_kmp_voice_visualizer_ring)** — Audio-reactive visualizer in Kotlin Multiplatform, built with Spec-Driven Development + Claude Code. [Live demo](https://kmp-voice-visualizer-ring.web.app/).
+## Open lab
 
----
+I build in public when the artifact deserves it — method included:
 
-<p align="center"><i>Java &amp; mobile since the late 2000s · Flutter since 2018 · Applied AI today</i></p>
+- [`sdd_kmp_voice_visualizer_ring`](https://github.com/jvagliat/sdd_kmp_voice_visualizer_ring) — a Kotlin Multiplatform voice visualizer built with Spec-Driven Development, in a stack LLMs don't know by heart. Specs and the task-by-task process are in the repo. 60 FPS, 4 platforms, no native dependencies.
+- More at [pablovagliati.com/laboratorio](https://pablovagliati.com/laboratorio).
+
+## Stack
+
+**AI:** Python · LangChain / LangGraph · Google ADK · RAG / GraphRAG · Vector DBs (Pinecone, Weaviate, pgvector) · LLMOps (LangSmith, Langfuse)
+
+**Software:** Flutter / Dart (since 2018) · Kotlin / Java (15+ yrs) · TypeScript · FastAPI · Firebase · GCP / AWS
