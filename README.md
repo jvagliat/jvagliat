@@ -1,36 +1,53 @@
-# Hi, I'm Pablo Vagliati 👋
+# Pablo Vagliati
 
-**Senior AI Engineer & Architect — LLMs, RAG & Agents, backed by 20+ years of software at scale.**
+Software developer. These days I mostly build AI applications (LLMs, RAG,
+agents); before that, two decades of mobile and backend.
 
-Independent consultant: the senior you talk to is the one who designs and writes the code.
+I work on my own, so the person you talk to is the person writing the code.
 
-🌐 [pablovagliati.com](https://pablovagliati.com) · 💼 [linkedin.com/in/pablovagliati](https://linkedin.com/in/pablovagliati) · 📫 jvagliat@gmail.com
+[pablovagliati.com](https://pablovagliati.com) ·
+[linkedin.com/in/pablovagliati](https://linkedin.com/in/pablovagliati) ·
+jvagliat@gmail.com
 
-## Track record
+## What I've worked on
 
-- **Movistar Argentina** — led the first Android version of the official app, adopted by millions of users.
-- **Doorbot → Ring** — built the first Android client of the smart doorbell that became Ring (later acquired by Amazon), today used by 10M+ people.
-- **500+ municipalities in Spain** — one base architecture, one app per town.
-- **20+ years shipping software** — from VR simulation (Argentine Navy, 2002) and Java EE, to mobile at scale, to applied AI.
+- **Movistar / Telefónica** — developer and tech lead on the official
+  self-management app (native Android).
+- **Doorbot (later Ring)** — helped build one of the first Android clients,
+  before Amazon acquired it.
+- **Jvagliat Solutions — a small design & development studio.** For several
+  years after Movistar, I worked in a small, hands-on team building apps from
+  scratch: UI/UX, technology and architecture, tailored to each domain. Around
+  30 apps in total. A few of them: Bandomovil, a municipal app whose
+  architecture let one build scale to 500+ towns, with a companion
+  citizen-survey app (VozPu); Ivess, focused on keeping customer accounts
+  reliably available; and Entrena con JAGM, where the UX was shaped around how
+  a personal trainer actually coaches.
+- Earlier: VR simulation for the Argentine Navy (2002), Java EE.
 
-## AI work (2024 – present)
+## AI work (2024–present)
 
-Production systems for real clients. The code is private; the cases are real:
+Client projects, mostly with private code:
 
-- **Help desk agent — Workana.** Consolidated the support of "The Accelerator" — Workana's paid community where 300 active freelancers learn to land their first projects (40-channel Discord) — into a single intelligent agent: unified a legacy chatbot with a RAG bot over internal docs, with grounded answers (cited sources, relevance scores, visible tool calls). The support team now handles edge cases only.
-- **Legal research assistant — Mexico.** Agentic assistant over Mexico's Supreme Court (SCJN) jurisprudence: a century of case law (since 1917) whose official search offers neither lexical nor semantic retrieval. Hybrid RAG (lexical + semantic) with incremental on-demand indexing, built with a practicing lawyer for a bar association. Case-law research went from days to minutes.
-- **Document AI.** OCR + LLM pipeline for automated extraction and classification of legal documents.
+- **Support agent — Workana.** Merged a legacy chatbot with a RAG bot over
+  internal docs for their freelancer community. Answers cite their sources.
+- **Legal research assistant — Mexico.** Hybrid (lexical + semantic) search
+  over SCJN case law, built alongside a lawyer for a bar association.
+- **Document AI.** Extraction and classification of legal documents with
+  OCR + LLM.
 - **Voice AI.** Real-time voice agents (LiveKit, ElevenLabs).
 
-## Open lab
+## In the open
 
-I build in public when the artifact deserves it — method included:
-
-- [`sdd_kmp_voice_visualizer_ring`](https://github.com/jvagliat/sdd_kmp_voice_visualizer_ring) — a Kotlin Multiplatform voice visualizer built with Spec-Driven Development, in a stack LLMs don't know by heart. Specs and the task-by-task process are in the repo. 60 FPS, 4 platforms, no native dependencies.
+- [`sdd_kmp_voice_visualizer_ring`](https://github.com/jvagliat/sdd_kmp_voice_visualizer_ring)
+  — a Kotlin Multiplatform voice visualizer built with spec-driven
+  development. The specs and the process are in the repo.
 - More at [pablovagliati.com/laboratorio](https://pablovagliati.com/laboratorio).
 
 ## Stack
 
-**AI:** Python · LangChain / LangGraph · Google ADK · RAG / GraphRAG · Vector DBs (Pinecone, Weaviate, pgvector) · LLMOps (LangSmith, Langfuse)
+**AI:** Python · LangChain / LangGraph · Google ADK · RAG / GraphRAG ·
+Vector DBs (Pinecone, Weaviate, pgvector) · LangSmith, Langfuse
 
-**Software:** Flutter / Dart (since 2018) · Kotlin / Java (15+ yrs) · TypeScript · FastAPI · Firebase · GCP / AWS
+**Software:** Flutter / Dart · Kotlin / Java · TypeScript · FastAPI ·
+Firebase · GCP / AWS
