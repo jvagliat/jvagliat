@@ -47,7 +47,7 @@ Client projects, mostly with private code:
 ## Stack
 
 **AI:** Python · LangChain / LangGraph · Google ADK · RAG / GraphRAG ·
-Vector DBs (Pinecone, Weaviate, pgvector) · LangSmith, Langfuse
+Vector DBs (Pinecone, Weaviate, pgvector) · ElevenLabs / LiveKit ·LangSmith, Langfuse
 
 **Software:** Flutter / Dart · Kotlin / Java · TypeScript · FastAPI ·
 Firebase · GCP / AWS
