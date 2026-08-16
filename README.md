@@ -29,7 +29,7 @@ jvagliat@gmail.com
 
 Client projects, mostly with private code:
 
-- **Support agent — Workana.** Merged a legacy chatbot with a RAG bot over
+- **Support agent — freelancing platform.** Merged a legacy chatbot with a RAG bot over
   internal docs for their freelancer community. Answers cite their sources.
 - **Legal research assistant — Mexico.** Hybrid (lexical + semantic) search
   over SCJN case law, built alongside a lawyer for a bar association.
