@@ -6,7 +6,6 @@ agents); before that, two decades of mobile and backend.
 I work on my own, so the person you talk to is the person writing the code.
 
 [pablovagliati.com](https://pablovagliati.com) ·
-[linkedin.com/in/pablovagliati](https://linkedin.com/in/pablovagliati) ·
 jvagliat@gmail.com
 
 ## What I've worked on
